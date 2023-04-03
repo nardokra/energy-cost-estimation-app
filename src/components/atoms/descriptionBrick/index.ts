@@ -1,0 +1,1 @@
+export { DescriptionBrick } from './DescriptionBrick';
