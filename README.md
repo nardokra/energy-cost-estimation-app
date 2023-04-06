@@ -129,13 +129,9 @@ To learn more about the Material UI, check out the [Material UI Documentation](h
 
 Below you can find the decision made for the architecture of the assessment.
 
-### 1. React or Lit Web
+### 1. React
 
-For building this App I made the decision to use React over Lit Web.
-I made this decision with the knowledge that this assessment is in line with my potential first project which is built with React.
-
-Besides that, I think Lit Web would have been a good framework to use for building this app of this small size because it's lightweight
-and has a small bundle size and loading time.
+For building this App I made the decision to use React, to demonstrate my skills with and knowledge of this framework.
 
 ### 2. Atomic Design System Component Architecture
 
